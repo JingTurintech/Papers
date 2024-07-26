@@ -7,7 +7,7 @@ EyeTrans: Merging Human and Machine Attention for Neural Code Summarization (FSE
 
 ## Ranker LLM:
 
-CORE: Resolving Code Quality Issues Using LLMs (FSE 2024 - Posters) - FSE 2024 (esec-fse.org)
+CORE: Resolving Code Quality Issues Using LLMs (FSE 2024 - Research Papers) - FSE 2024 (esec-fse.org)
 
 ## Google’s data science agent:
 
@@ -33,7 +33,7 @@ Leveraging Large Language Models for the Auto-remediation of Microservice Applic
 
 ## Fairness of ML models:
 
-MirrorFair: Fixing Fairness Bugs in Machine Learning Software via Counterfactual Predictions (FSE 2024 - Posters) - FSE 2024 (esec-fse.org)
+MirrorFair: Fixing Fairness Bugs in Machine Learning Software via Counterfactual Predictions (FSE 2024 - Research Papers) - FSE 2024 (esec-fse.org)
 
 ## Human-in-the-loop:
 
